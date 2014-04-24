@@ -21,3 +21,10 @@ Here are some modules you should have in your every project:
 * [Views](https://drupal.org/project/views) - Drupal 6, Drupal 7, Drupal 8(Built-in)
 * [Webform](https://drupal.org/project/webform) - Drupal 6, Drupal 7
 * [XML sitemap](https://drupal.org/project/xmlsitemap) - Drupal 6, Drupal 7
+
+## Tools
+
+Great tools for drupal:
+
+* [Droptor](http://www.droptor.com/) - Manage Drupal sites in one place
+* [Acquia Drypal](http://www.acquia.com/products-services/acquia-drupal) - A Drupal distribution
