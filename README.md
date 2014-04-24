@@ -27,4 +27,4 @@ Here are some modules you should have in your every project:
 Great tools for drupal:
 
 * [Droptor](http://www.droptor.com/) - Manage Drupal sites in one place
-* [Acquia Drypal](http://www.acquia.com/products-services/acquia-drupal) - A Drupal distribution
+* [Acquia Drupal](http://www.acquia.com/products-services/acquia-drupal) - A Drupal distribution
