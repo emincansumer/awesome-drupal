@@ -28,3 +28,12 @@ Great tools for drupal:
 
 * [Droptor](http://www.droptor.com/) - Manage Drupal sites in one place
 * [Acquia Drupal](http://www.acquia.com/products-services/acquia-drupal) - A Drupal distribution
+
+## Slides
+
+Useful slideshows:
+
+* [Drupal Code: Day 1](http://www.slideshare.net/eaton/drupal-development)
+* [Drupal Code: Day 2](http://www.slideshare.net/eaton/drupal-development-part-2)
+* [Using Features](http://www.slideshare.net/voidberg/using-features)
+* [Drupal Deployment](http://www.slideshare.net/eaton/drupal-deployment-presentation)
