@@ -16,6 +16,7 @@ Here are some modules you should have in your every project:
 * [Google Analytics](https://drupal.org/project/google_analytics) - Drupal 6, Drupal 7
 * [ImageCache](https://drupal.org/project/imagecache) - Drupal 6, Drupal 7(Built-in)
 * [LoginToboggan](https://drupal.org/project/logintoboggan) - Drupal 6, Drupal 7
+* [Metatag](https://drupal.org/project/metatag) - Drupal 7
 * [Nodequeue](https://drupal.org/project/nodequeue) - Drupal 6, Drupal 7
 * [Pathauto](https://drupal.org/project/pathauto) - Drupal 6, Drupal 7
 * [Rules](https://drupal.org/project/rules) - Drupal 6, Drupal 7
