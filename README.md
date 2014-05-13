@@ -48,3 +48,4 @@ Tutorials and articles:
 
 * [The Drupal Cookbook](https://drupal.org/documentation/customization/tutorials/beginners-cookbook)
 * [Web Omelette Drupal Tutorials](http://www.webomelette.com/drupal)
+* [OSTraining Drupal Tutorials](http://www.ostraining.com/blog/drupal/)
