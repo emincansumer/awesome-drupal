@@ -31,7 +31,18 @@ Here are some modules you should have in your every project:
 Great tools for drupal:
 
 * [Droptor](http://www.droptor.com/) - Manage Drupal sites in one place
-* [Acquia Drupal](http://www.acquia.com/products-services/acquia-drupal) - A Drupal distribution
+
+## Distributions
+
+Distributions for your special needs:
+
+* [Acquia Drupal](http://www.acquia.com/products-services/acquia-drupal) - Distribution of the open source Drupal social publishing system
+* [Julio](https://drupal.org/project/julio) - A distribution for Schools, School Districts, and University Departments
+* [Open Deals](https://drupal.org/project/opendeals) - Deals site distribution based on Drupal 7
+* [Recruiter](https://drupal.org/project/recruiter) - Distribution for building Drupal based e-recruitment platforms
+* [Restaurant](https://drupal.org/project/restaurant) - Everything you need to kickstart your restaurant website
+* [Spark](https://drupal.org/project/spark) - Enhanced Drupal authoring experience
+* [Wiki installation profile](https://drupal.org/project/drupal_wiki) - Wiki with Drupal
 
 ## Slides
 
