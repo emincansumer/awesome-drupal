@@ -39,6 +39,7 @@ Distributions for your special needs:
 * [Acquia Drupal](http://www.acquia.com/products-services/acquia-drupal) - Distribution of the open source Drupal social publishing system
 * [Julio](https://drupal.org/project/julio) - A distribution for Schools, School Districts, and University Departments
 * [Open Deals](https://drupal.org/project/opendeals) - Deals site distribution based on Drupal 7
+* [Open Hotel](https://drupal.org/project/openhotel) - Create a full featured Hotel site with online booking and online availability
 * [Recruiter](https://drupal.org/project/recruiter) - Distribution for building Drupal based e-recruitment platforms
 * [Restaurant](https://drupal.org/project/restaurant) - Everything you need to kickstart your restaurant website
 * [Spark](https://drupal.org/project/spark) - Enhanced Drupal authoring experience
