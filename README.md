@@ -8,6 +8,7 @@ Here are some modules you should have in your every project:
 
 * [Backup and Migrate](https://drupal.org/project/backup_migrate) - Drupal 6, Drupal 7
 * [Boost](https://drupal.org/project/boost) - Drupal 6, Drupal 7
+* [Commerce](http://www.drupalcommerce.org/) - Drupal 7
 * [Context](https://drupal.org/project/context) - Drupal 6, Drupal 7
 * [Display Suite](https://drupal.org/project/ds) - Drupal 6, Drupal 7
 * [Devel](https://drupal.org/project/devel) - Drupal 6, Drupal 7
