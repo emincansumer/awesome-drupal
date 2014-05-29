@@ -38,6 +38,7 @@ Great tools for drupal:
 Distributions for your special needs:
 
 * [Acquia Drupal](http://www.acquia.com/products-services/acquia-drupal) - Distribution of the open source Drupal social publishing system
+* [Commerce Kickstart](https://drupal.org/project/commerce_kickstart) - Ecommerce distribution running with Drupal commerce module
 * [Julio](https://drupal.org/project/julio) - A distribution for Schools, School Districts, and University Departments
 * [Open Deals](https://drupal.org/project/opendeals) - Deals site distribution based on Drupal 7
 * [Open Hotel](https://drupal.org/project/openhotel) - Create a full featured Hotel site with online booking and online availability
