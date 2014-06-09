@@ -55,6 +55,7 @@ Useful slideshows:
 * [Drupal Code: Day 2](http://www.slideshare.net/eaton/drupal-development-part-2)
 * [Using Features](http://www.slideshare.net/voidberg/using-features)
 * [Drupal Deployment](http://www.slideshare.net/eaton/drupal-deployment-presentation)
+* [Drupal Association YouTube Videos](https://www.youtube.com/user/DrupalAssociation/videos)
 
 ## Articles
 
