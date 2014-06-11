@@ -66,3 +66,4 @@ Tutorials and articles:
 * [The Drupal Cookbook](https://drupal.org/documentation/customization/tutorials/beginners-cookbook)
 * [Web Omelette Drupal Tutorials](http://www.webomelette.com/drupal)
 * [OSTraining Drupal Tutorials](http://www.ostraining.com/blog/drupal/)
+* [Authenticated User Caching](https://ohthehugemanatee.org/blog/2014/06/09/authenticated-user-caching-in-drupal/?utm_content=buffera293f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
