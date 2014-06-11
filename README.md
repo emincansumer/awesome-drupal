@@ -21,6 +21,7 @@ Here are some modules you should have in your every project:
 * [Nodequeue](https://drupal.org/project/nodequeue) - Drupal 6, Drupal 7
 * [Pathauto](https://drupal.org/project/pathauto) - Drupal 6, Drupal 7
 * [Rules](https://drupal.org/project/rules) - Drupal 6, Drupal 7
+* [Search Krumo](https://drupal.org/project/search_krumo) - Drupal 7
 * [Strongarm](https://drupal.org/project/strongarm) - Drupal 6, Drupal 7
 * [Ubercart](https://drupal.org/project/ubercart) - Drupal 6, Drupal 7
 * [Views](https://drupal.org/project/views) - Drupal 6, Drupal 7, Drupal 8(Built-in)
@@ -32,6 +33,7 @@ Here are some modules you should have in your every project:
 Great tools for drupal:
 
 * [Droptor](http://www.droptor.com/) - Manage Drupal sites in one place
+* [Drush](http://www.drush.org/) - A command line shell and scripting interface for Drupal
 
 ## Distributions
 
