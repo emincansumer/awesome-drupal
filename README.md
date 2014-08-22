@@ -70,3 +70,4 @@ Tutorials and articles:
 * [OSTraining Drupal Tutorials](http://www.ostraining.com/blog/drupal/)
 * [Authenticated User Caching](https://ohthehugemanatee.org/blog/2014/06/09/authenticated-user-caching-in-drupal/)
 * [8 Answers for All Drupal 6 Site Owners](https://www.ostraining.com/blog/drupal/drupal-6-schedule/)
+* [Useful Theme Snippets For Drupal 7](https://wilks.co/articles/useful-theme-snippets-drupal-7/)
