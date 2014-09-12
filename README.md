@@ -8,6 +8,7 @@ Here are some modules you should have in your every project:
 
 * [Authcache](https://drupal.org/project/authcache) - Drupal 6, Drupal 7
 * [Backup and Migrate](https://drupal.org/project/backup_migrate) - Drupal 6, Drupal 7
+* [Better Exposed Filter](https://www.drupal.org/project/better_exposed_filters) - Drupal 6, Drupal 7
 * [Boost](https://drupal.org/project/boost) - Drupal 6, Drupal 7
 * [Commerce](http://www.drupalcommerce.org/) - Drupal 7
 * [Composer Manager](https://drupal.org/project/composer_manager) - Drupal 6, Drupal 7, Drupal 8
