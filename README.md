@@ -36,7 +36,6 @@ Here are some modules you should have in your every project:
 
 Great tools for drupal:
 
-* [Droptor](http://www.droptor.com/) - Manage Drupal sites in one place
 * [Drush](http://www.drush.org/) - A command line shell and scripting interface for Drupal
 
 ## Distributions
