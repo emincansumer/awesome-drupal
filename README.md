@@ -13,6 +13,7 @@ Here are some modules you should have in your every project:
 * [Commerce](http://www.drupalcommerce.org/) - Drupal 7
 * [Composer Manager](https://drupal.org/project/composer_manager) - Drupal 6, Drupal 7, Drupal 8
 * [Context](https://drupal.org/project/context) - Drupal 6, Drupal 7
+* [Diff](https://www.drupal.org/project/diff) - Druapl 6, Drupal 7
 * [Display Suite](https://drupal.org/project/ds) - Drupal 6, Drupal 7
 * [Devel](https://drupal.org/project/devel) - Drupal 6, Drupal 7
 * [Features](https://drupal.org/project/features) - Drupal 6, Drupal 7
@@ -22,6 +23,7 @@ Here are some modules you should have in your every project:
 * [jQuery Update](https://www.drupal.org/project/jquery_update) - Drupal 6, Drupal 7
 * [LoginToboggan](https://drupal.org/project/logintoboggan) - Drupal 6, Drupal 7
 * [Metatag](https://drupal.org/project/metatag) - Drupal 7
+* [Module Filter](https://www.drupal.org/project/module_filter) - Drupal 6, Drupal 7
 * [Nodequeue](https://drupal.org/project/nodequeue) - Drupal 6, Drupal 7
 * [Pathauto](https://drupal.org/project/pathauto) - Drupal 6, Drupal 7
 * [Rules](https://drupal.org/project/rules) - Drupal 6, Drupal 7
