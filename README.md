@@ -34,6 +34,11 @@ Here are some modules you should have in your every project:
 * [Webform](https://drupal.org/project/webform) - Drupal 6, Drupal 7
 * [XML sitemap](https://drupal.org/project/xmlsitemap) - Drupal 6, Drupal 7
 
+Here are some other awesome special modules for specific purposes
+
+* [Fivestar](https://www.drupal.org/project/fivestar) - Rating module for Drupal 6, Drupal 7
+* [Quiz](https://www.drupal.org/project/quiz) - Quiz module for Drupal 6, Drupal 7
+
 ## Tools
 
 Great tools for drupal:
