@@ -80,3 +80,4 @@ Tutorials and articles:
 * [8 Answers for All Drupal 6 Site Owners](https://www.ostraining.com/blog/drupal/drupal-6-schedule/)
 * [Useful Theme Snippets For Drupal 7](https://wilks.co/articles/useful-theme-snippets-drupal-7/)
 * [Your Drupal site got hacked. Now what?](https://github.com/greggles/cracking-drupal/blob/master/after-an-exploit.md)
+* [Drupal Security Tips for Developers](https://codedrop.com.au/blog/drupal-security-tips-developers)
