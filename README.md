@@ -13,7 +13,8 @@ Here are some modules you should have in your every project:
 * [Commerce](http://www.drupalcommerce.org/) - Drupal 7
 * [Composer Manager](https://drupal.org/project/composer_manager) - Drupal 6, Drupal 7, Drupal 8
 * [Context](https://drupal.org/project/context) - Drupal 6, Drupal 7
-* [Diff](https://www.drupal.org/project/diff) - Druapl 6, Drupal 7
+* [Chaos Tools](https://www.drupal.org/project/ctools) - Drupal 6, Drupal 7
+* [Diff](https://www.drupal.org/project/diff) - Drupal 6, Drupal 7
 * [Display Suite](https://drupal.org/project/ds) - Drupal 6, Drupal 7
 * [Devel](https://drupal.org/project/devel) - Drupal 6, Drupal 7
 * [Features](https://drupal.org/project/features) - Drupal 6, Drupal 7
