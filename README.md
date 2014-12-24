@@ -21,6 +21,7 @@ Here are some modules you should have in your every project:
 * [Global Redirect](https://drupal.org/project/globalredirect) - Drupal 6, Drupal 7
 * [Google Analytics](https://drupal.org/project/google_analytics) - Drupal 6, Drupal 7
 * [ImageCache](https://drupal.org/project/imagecache) - Drupal 6, Drupal 7(Built-in)
+* [Internationalization](https://www.drupal.org/project/i18n) - Drupal 6, Drupal 7
 * [jQuery Update](https://www.drupal.org/project/jquery_update) - Drupal 6, Drupal 7
 * [LoginToboggan](https://drupal.org/project/logintoboggan) - Drupal 6, Drupal 7
 * [Metatag](https://drupal.org/project/metatag) - Drupal 7
