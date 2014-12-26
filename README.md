@@ -84,3 +84,4 @@ Tutorials and articles:
 * [Your Drupal site got hacked. Now what?](https://github.com/greggles/cracking-drupal/blob/master/after-an-exploit.md)
 * [Drupal Security Tips for Developers](https://codedrop.com.au/blog/drupal-security-tips-developers)
 * [Drupal Watchdog Issues](http://drupalwatchdog.com/issues)
+* [Drupal 8 Ready: What's new for Developers?](https://www.previousnext.com.au/blog/drupal-8-ready-whats-new-developers)
